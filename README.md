@@ -111,7 +111,7 @@ The merged dataset was exported to CSV and visualized in Tableau Public across 5
 1. Clone this repository
 2. Install dependencies: `pip install pandas numpy requests kagglehub`
 3. Get a free FRED API key from [fred.stlouisfed.org](https://fred.stlouisfed.org/docs/api/api_key.html) and replace `YOUR_FRED_API_KEY` in the notebook
-4. Run `mile5_DSC540_KChu.ipynb` from top to bottom — it will download the LendingClub dataset automatically via kagglehub
+4. Run `credit_risk_and_unemployment_.ipynb` from top to bottom — it will download the LendingClub dataset automatically via kagglehub
 5. View the interactive Tableau visualizations via the links above
 
 ---
